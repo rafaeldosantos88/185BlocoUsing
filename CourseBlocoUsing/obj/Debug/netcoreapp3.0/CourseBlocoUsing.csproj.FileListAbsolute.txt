@@ -1,0 +1,11 @@
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\bin\Debug\netcoreapp3.0\CourseBlocoUsing.exe
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\bin\Debug\netcoreapp3.0\CourseBlocoUsing.deps.json
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\bin\Debug\netcoreapp3.0\CourseBlocoUsing.runtimeconfig.json
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\bin\Debug\netcoreapp3.0\CourseBlocoUsing.runtimeconfig.dev.json
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\bin\Debug\netcoreapp3.0\CourseBlocoUsing.dll
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\bin\Debug\netcoreapp3.0\CourseBlocoUsing.pdb
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\obj\Debug\netcoreapp3.0\CourseBlocoUsing.csprojAssemblyReference.cache
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\obj\Debug\netcoreapp3.0\CourseBlocoUsing.AssemblyInfoInputs.cache
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\obj\Debug\netcoreapp3.0\CourseBlocoUsing.AssemblyInfo.cs
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\obj\Debug\netcoreapp3.0\CourseBlocoUsing.dll
+C:\Temp\CourseBlocoUsing\CourseBlocoUsing\obj\Debug\netcoreapp3.0\CourseBlocoUsing.pdb
